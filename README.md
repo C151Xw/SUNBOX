@@ -9,4 +9,6 @@ Payment
 Requirements:
 You Need IPTV App For Adding Our M3U File
 ![unnamed](https://github.com/C151Xw/SUNBOX/assets/167058625/566faee8-f6a6-40e0-a863-35e0d5c790ae)
+
+Link: https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv
 __________________________________________
